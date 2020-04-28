@@ -1,4 +1,4 @@
-# zakathalmaal
+# Zakat Al-Mal
 
 Calculate Zakathul Al-Maal
 
