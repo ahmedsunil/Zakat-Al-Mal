@@ -287,7 +287,7 @@ class About extends StatelessWidget {
                   decoration: TextDecoration.underline,
                   color: Colors.teal[400],
                   fontWeight: FontWeight.normal,
-                  fontSize: 35),
+                  fontSize: 30),
               textAlign: TextAlign.center,
             ),
           ),
