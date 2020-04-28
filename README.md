@@ -4,13 +4,11 @@ Calculate Zakathul Al-Maal
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1 - Install Flutter
+https://flutter.dev/docs/get-started/install/windows
 
-A few resources to get you started if this is your first Flutter project:
+2- Setup Android Studio for Flutter Development
+https://medium.com/flutterpub/flutter-installation-setup-with-android-studio-326dea65f609
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3 - Follow this tutorial for the rest
+https://www.youtube.com/watch?v=_ey3pZt9Afs&feature=emb_logo
